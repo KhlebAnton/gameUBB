@@ -28,7 +28,11 @@ html {
 ol {
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 15px;
+    
+}
+li {
+    margin-left: 1rem;
 }
 a {
     text-decoration: none;
